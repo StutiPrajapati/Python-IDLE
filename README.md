@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Stuti Prajapati</h1>
 <h3 align="center">A passionate full-stack developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=stutiprajapati&label=Profile%20views&color=0e75b6&style=flat" alt="stutiprajapati" /> </p>
-
 - 👨‍💻 All of my projects are available at : www.linkedin.com/in/
 stuti-prajapati12
 
