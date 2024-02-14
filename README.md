@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Stuti Prajapati</h1>
 <h3 align="center">A passionate full-stack developer from India</h3>
-<img align ="right" alt="coding" width="400" src="image_processing20210722-25951-90hfg0.gif">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=stutiprajapati&label=Profile%20views&color=0e75b6&style=flat" alt="stutiprajapati" /> </p>
 
-- 👨‍💻 All of my projects are available at [www.linkedin.com/in/ stuti-prajapati](www.linkedin.com/in/ stuti-prajapati)
+- 👨‍💻 All of my projects are available at : www.linkedin.com/in/
+stuti-prajapati12
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
